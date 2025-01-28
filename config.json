@@ -1,0 +1,6 @@
+{
+  "files": {
+    "resolv.conf": "/etc/resolv.conf",
+    "hosts": "/etc/hosts"
+  }
+}
